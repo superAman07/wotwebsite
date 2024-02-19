@@ -1,2 +1,1 @@
-[# wotwebsite]
-(https://superaman07.github.io/wotwebsite/)https://superaman07.github.io/wotwebsite/
+ https://github.com/superAman07/wotwebsite
